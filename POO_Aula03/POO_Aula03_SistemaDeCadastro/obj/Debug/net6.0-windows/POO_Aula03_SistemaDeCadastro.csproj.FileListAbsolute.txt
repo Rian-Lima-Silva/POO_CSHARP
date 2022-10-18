@@ -1,0 +1,17 @@
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\bin\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.exe
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\bin\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.deps.json
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\bin\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.runtimeconfig.json
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\bin\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.dll
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\bin\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.Form1.resources
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.dll
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\refint\POO_Aula03_SistemaDeCadastro.dll
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\POO_Aula03_SistemaDeCadastro.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula03\POO_Aula03_SistemaDeCadastro\obj\Debug\net6.0-windows\ref\POO_Aula03_SistemaDeCadastro.dll
