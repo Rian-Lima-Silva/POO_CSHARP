@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\bin\Debug\Aula04_POO_AppInvestimento.exe.config
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\bin\Debug\Aula04_POO_AppInvestimento.exe
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\bin\Debug\Aula04_POO_AppInvestimento.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\obj\Debug\Aula04_POO_AppInvestimento.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\obj\Debug\Aula04_POO_AppInvestimento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\obj\Debug\Aula04_POO_AppInvestimento.Form_Principal.resources
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\obj\Debug\Aula04_POO_AppInvestimento.Properties.Resources.resources
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\obj\Debug\Aula04_POO_AppInvestimento.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\obj\Debug\Aula04_POO_AppInvestimento.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\obj\Debug\Aula04_POO_AppInvestimento.exe
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula04\Aula04_POO_AppInvestimento\obj\Debug\Aula04_POO_AppInvestimento.pdb
