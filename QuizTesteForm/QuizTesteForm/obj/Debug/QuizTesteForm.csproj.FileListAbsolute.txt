@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\bin\Debug\QuizTesteForm.exe.config
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\bin\Debug\QuizTesteForm.exe
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\bin\Debug\QuizTesteForm.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\obj\Debug\QuizTesteForm.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\obj\Debug\QuizTesteForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\obj\Debug\QuizTesteForm.Properties.Resources.resources
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\obj\Debug\QuizTesteForm.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\obj\Debug\QuizTesteForm.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\obj\Debug\QuizTesteForm.exe
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\obj\Debug\QuizTesteForm.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\QuizTesteForm\QuizTesteForm\obj\Debug\QuizTesteForm.Form1.resources
