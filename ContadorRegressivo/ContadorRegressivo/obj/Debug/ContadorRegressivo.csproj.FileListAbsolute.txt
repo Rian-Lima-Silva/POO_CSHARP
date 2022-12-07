@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\bin\Debug\ContadorRegressivo.exe.config
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\bin\Debug\ContadorRegressivo.exe
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\bin\Debug\ContadorRegressivo.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\obj\Debug\ContadorRegressivo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\obj\Debug\ContadorRegressivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\obj\Debug\ContadorRegressivo.Properties.Resources.resources
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\obj\Debug\ContadorRegressivo.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\obj\Debug\ContadorRegressivo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\obj\Debug\ContadorRegressivo.exe
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\obj\Debug\ContadorRegressivo.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\ContadorRegressivo\ContadorRegressivo\obj\Debug\ContadorRegressivo.FrmContador.resources
