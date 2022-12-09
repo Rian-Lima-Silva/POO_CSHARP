@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\bin\Debug\Questoes2FormBase.exe.config
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\bin\Debug\Questoes2FormBase.exe
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\bin\Debug\Questoes2FormBase.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\obj\Debug\Questoes2FormBase.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\obj\Debug\Questoes2FormBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\obj\Debug\Questoes2FormBase.Form1.resources
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\obj\Debug\Questoes2FormBase.Properties.Resources.resources
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\obj\Debug\Questoes2FormBase.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\obj\Debug\Questoes2FormBase.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\obj\Debug\Questoes2FormBase.exe
+C:\Users\Aluno\Documents\Rian Lima\C\Questoes2FormBase\Questoes2FormBase\obj\Debug\Questoes2FormBase.pdb
